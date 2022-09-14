@@ -45,4 +45,5 @@ https://maven.apache.org/xsd/maven-4.0.0.xsd">
     </plugins>
 </build>
  </dependencies>
+</dependency>
 </project>
